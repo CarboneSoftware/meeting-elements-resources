@@ -18,6 +18,6 @@
         "sizeMb":114,
         "version":"1.1.2-beta",
         "name":"Meeting Studio Beta",
-        "installerSrc":"https://github.com/CarboneSoftware/meeting-elements-resources/releases/download/untagged-16fc53fdb4c1582aed63/Meeting.Studio.Beta.Setup.1.1.2.exe"
+        "installerSrc":"https://github.com/CarboneSoftware/meeting-elements-resources/releases/download/1.1.2/Meeting.Studio.Beta.Setup.1.1.2.exe"
     }
 ]
