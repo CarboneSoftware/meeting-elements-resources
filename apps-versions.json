@@ -1,0 +1,16 @@
+[
+    {
+        "id":"110b",
+        "sizeMb":113,
+        "version":"1.1.0-beta",
+        "name":"Meeting Studio Beta",
+        "installerSrc":"https://github.com/CarboneSoftware/meeting-elements-resources/releases/download/untagged-6d32a62609cfb8214618/Meeting.Studio.Beta.Setup.1.1.0.exe"
+    },
+    {
+        "id":"111b",
+        "sizeMb":114,
+        "version":"1.1.1-beta",
+        "name":"Meeting Studio Beta",
+        "installerSrc":"https://github.com/CarboneSoftware/meeting-elements-resources/releases/download/untagged-01d6e8cabe4974cad393/Meeting.Studio.Beta.Setup.1.1.1.exe"
+    }
+]
