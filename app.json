@@ -4,7 +4,7 @@
     "updateClock":false
   },
   "updateAdvertisement":{
-    "lastVersion":"1.1.0-beta"
+    "lastVersion":"1.1.1-beta"
  },
   "commemoration": {
     "status":false,
