@@ -5,5 +5,12 @@
         "version":"1.1.2-beta",
         "name":"Meeting Studio Beta",
         "installerSrc":"https://github.com/CarboneSoftware/meeting-elements-resources/releases/download/1.1.2/Meeting.Studio.Beta.Setup.1.1.2.exe"
+    },
+    {
+        "id":"113b",
+        "sizeMb":113,
+        "version":"1.1.3-beta",
+        "name":"Meeting Studio Beta",
+        "installerSrc":"https://github.com/CarboneSoftware/meeting-elements-resources/releases/download/1.1.3-beta/Meeting.Studio.Setup.1.1.3-beta.exe"
     }
 ]
