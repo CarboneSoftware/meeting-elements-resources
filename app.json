@@ -1,18 +1,5 @@
 {
   "updateAdvertisement":{
-    "lastVersion":"1.0.0"
- },
-  "commemoration": {
-    "status":false,
-    "banner": "[src]",
-    "specialConference":{
-        "title":"",
-        "song":0
-    },
-    "conference":{
-        "title":"",
-        "firstSong":0,
-        "lastSong":0
-    }
-  }
+    "lastVersion":"1.1.0"
+ }
 }
