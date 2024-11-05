@@ -1,5 +1,6 @@
 {
   "updateAdvertisement":{
-    "lastVersion":"1.2.0"
+    "lastVersion":"2.0.0",
+    "src":"https://github.com/CarboneSoftware/meeting-elements-resources/releases/download/2.0.0/Meeting.Studio.Setup.2.0.0.exe"
  }
 }
