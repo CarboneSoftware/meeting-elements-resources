@@ -33,12 +33,5 @@
         "version":"1.2.0",
         "name":"Meeting Studio",
         "installerSrc":"https://github.com/CarboneSoftware/meeting-elements-resources/releases/download/1.2.0/Meeting.Studio.Setup.1.2.0.exe"
-    },
-    {
-        "id":"200",
-        "sizeMb":157,
-        "version":"2.0.0",
-        "name":"Meeting Studio",
-        "installerSrc":"https://github.com/CarboneSoftware/meeting-elements-resources/releases/download/2.0.0/Meeting.Studio.Setup.2.0.0.exe"
     }
 ]
